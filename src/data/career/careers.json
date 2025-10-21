@@ -1,0 +1,1060 @@
+[
+  {
+    "id": "gamedev",
+    "name_th": "Game Developer",
+    "overview": "ผู้รับผิดชอบในการพัฒนาเกมตั้งแต่ระดับโค้ดจนถึงระบบ โดยใช้ทักษะด้านโปรแกรมและวิศวกรรมซอฟต์แวร์เพื่อนำแนวคิดทีมออกแบบมาสร้างเป็นเกมที่เล่นได้จริง รวมถึงแก้บั๊กและปรับแต่งประสิทธิภาพให้เหมาะสมกับแพลตฟอร์มต่าง ๆ",
+    "responsibilities": [
+      "พัฒนา gameplay, AI, UI, ฟิสิกส์",
+      "ทำงานร่วมกับทีมออกแบบและศิลป์",
+      "ทดสอบและแก้ไขบั๊ก",
+      "ปรับเกมให้เหมาะสมกับหลายแพลตฟอร์ม",
+      "ออกแบบโครงสร้างระบบรองรับการอัปเดต"
+    ],
+    "hard_skills": [
+      "C++",
+      "C#",
+      "Unity / Unreal Engine",
+      "OOP / Design Patterns",
+      "Algorithms & Data Structures",
+      "Physics Simulation"
+    ],
+    "soft_skills": [
+      "การแก้ปัญหา",
+      "การทำงานเป็นทีม",
+      "การสื่อสารกับทีมข้ามสายงาน",
+      "ความคิดเชิงตรรกะ",
+      "พร้อมเรียนรู้เทคโนโลยีใหม่ ๆ"
+    ],
+    "tools": {
+      "basic": [
+        "Unity Editor",
+        "Visual Studio / VS Code",
+        "Git / GitHub",
+        "Trello / Jira"
+      ],
+      "intermediate": [
+        "Unreal Engine (Blueprint)",
+        "JetBrains Rider",
+        "Unity Profiler",
+        "Perforce",
+        "Blender / Maya"
+      ],
+      "advanced": [
+        "Unreal C++ Toolchain",
+        "RenderDoc",
+        "FMOD / Wwise",
+        "CI / CD (GitHub Actions / Jenkins)",
+        "Asset Bundles / Addressables"
+      ]
+    },
+    "tags": ["game"],
+    "sources": [
+      "https://www.indeed.com/career-advice/career-development/game-developer-skills",
+      "https://www.adaface.com/blog/skills-required-for-game-developer/",
+      "https://www.cgspectrum.com/career-pathways/game-programmer"
+    ]
+  },
+  {
+    "id": "gamedisgn",
+    "name_th": "Game Designer",
+    "overview": "นักออกแบบเกมผู้กำหนดกลไก กฎ กิจกรรม และระบบให้เกมน่าสนใจและสมดุล มีบทบาทในการเขียนเอกสารดีไซน์ สร้างต้นแบบ และปรับระบบตาม feedback",
+    "responsibilities": [
+      "ออกแบบ gameplay mechanics และระบบ progression",
+      "เขียน Game Design Document",
+      "สร้าง prototype และทดสอบระบบ",
+      "วิเคราะห์ข้อมูลผู้เล่นและปรับสมดุลเกม",
+      "ทำงานร่วมกับทีมศิลป์และโปรแกรมเมอร์"
+    ],
+    "hard_skills": [
+      "Game Mechanics Design",
+      "System Balancing",
+      "Prototyping Tools",
+      "Game Analytics / Metrics",
+      "UX/UI for Games"
+    ],
+    "soft_skills": [
+      "ความคิดสร้างสรรค์",
+      "การสื่อสาร",
+      "การวิเคราะห์",
+      "ความเข้าใจผู้เล่น (Empathy)",
+      "การปรับตัวตาม feedback"
+    ],
+    "tools": {
+      "basic": [
+        "Unity / Unreal Editor",
+        "Google Sheets / Excel",
+        "Trello / Miro"
+      ],
+      "intermediate": [
+        "Figma / Adobe XD",
+        "Prototyping Tools",
+        "Excel (สูตร / สมดุลระบบ)"
+      ],
+      "advanced": [
+        "Game Analytics Tools (เช่น GameAnalytics, Unity Analytics)",
+        "ระบบ AI Behavior Mockups"
+      ]
+    },
+    "tags": ["game"],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Game_design",
+      "https://www.cgspectrum.com/career-pathways/game-designer"
+    ]
+  },
+  {
+    "id": "techart",
+    "name_th": "Technical Artist",
+    "overview": "ผู้เชื่อมโยงระหว่างทีมอาร์ตและทีมเทคนิค มีหน้าที่สร้าง shader, material, tool และ pipeline เพื่อช่วยให้ทีมศิลป์ทำงานได้ราบรื่น พร้อมแก้ปัญหาการแสดงผลและ performance",
+    "responsibilities": [
+      "พัฒนา shader และระบบวัสดุ",
+      "สร้างเครื่องมือช่วยงานอาร์ต (tool scripts)",
+      "แก้ปัญหา rendering และ optimization",
+      "ดูแล pipeline ของ asset"
+    ],
+    "hard_skills": [
+      "Shader Programming (HLSL/GLSL)",
+      "Python / C# Scripting",
+      "Rendering Pipeline",
+      "Optimization Techniques",
+      "3D Asset Workflow"
+    ],
+    "soft_skills": [
+      "การสื่อสารกับทีมศิลป์และเทคนิค",
+      "การวิเคราะห์ปัญหาเชิงเทคนิค",
+      "ความละเอียดรอบคอบ",
+      "การประสานงานข้ามทีม"
+    ],
+    "tools": {
+      "basic": [
+        "Unity Shader Graph",
+        "Unreal Material Editor"
+      ],
+      "intermediate": [
+        "Python Tools / Editor Scripting",
+        "Blender / Maya",
+        "Profilers (เช่น Unity Profiler)"
+      ],
+      "advanced": [
+        "Custom Shader Development (HLSL)",
+        "Performance Analyzer (RenderDoc / Nsight)"
+      ]
+    },
+    "tags": ["game"],
+    "sources": [
+      "https://www.cgspectrum.com/blog/what-does-a-technical-artist-do",
+      "https://www.indeed.com/career-advice/finding-a-job/technical-artist"
+    ]
+  },
+  {
+    "id": "lvdesign",
+    "name_th": "Level Designer",
+    "overview": "ผู้รับผิดชอบออกแบบฉากและสภาพแวดล้อมในเกมให้มีความสมดุล สนุก และไหลลื่น โดยคำนึงถึงเส้นทางผู้เล่น จุดกลยุทธ์ และประสบการณ์การเล่น",
+    "responsibilities": [
+      "ออกแบบแผนที่และ layout ด่าน",
+      "วางตำแหน่งวัตถุ จุด spawn / จุดเดิน",
+      "ใช้ scripting เพื่อสร้าง event gameplay",
+      "ทดสอบ flow และปรับตาม feedback"
+    ],
+    "hard_skills": [
+      "Level Design",
+      "Spatial Layout / Geometry",
+      "Scripting (Trigger / Event)",
+      "Navigation Mesh Setup"
+    ],
+    "soft_skills": [
+      "ความคิดเชิงพื้นที่",
+      "การปรับตัวตาม feedback",
+      "ความละเอียดรอบคอบ",
+      "การทำงานร่วมกับทีมดีไซน์"
+    ],
+    "tools": {
+      "basic": [
+        "Unity Level Editor",
+        "Unreal Editor"
+      ],
+      "intermediate": [
+        "Blueprint Scripting",
+        "Blockout Tools",
+        "Wireframe / Diagram Tools"
+      ],
+      "advanced": [
+        "Procedural Level Tools",
+        "Lighting & Optimization Tools"
+      ]
+    },
+    "tags": ["game"],
+    "sources": [
+      "https://www.indeed.com/career-advice/finding-a-job/what-does-a-level-designer-do",
+      "https://www.cgspectrum.com/career-pathways/level-designer"
+    ]
+  },
+  {
+    "id": "gameqatest",
+    "name_th": "Game QA Tester",
+    "overview": "ผู้ทดสอบคุณภาพเกมเพื่อตรวจหาบั๊ก ความไม่สมเหตุสมผล และปัญหาการทำงานของเกม โดยเขียนรายงานและทดสอบซ้ำ (regression) เพื่อให้เกมที่ปล่อยออกมามีคุณภาพสูงสุด",
+    "responsibilities": [
+      "ทดสอบระบบเกมและฟีเจอร์ต่าง ๆ",
+      "รายงานบั๊กและรายละเอียดปัญหา",
+      "ทำ regression testing หลังการแก้บั๊ก",
+      "ประเมิน performance / compatibility"
+    ],
+    "hard_skills": [
+      "Bug Tracking / Issue Tracking",
+      "Testing Methods (Black box / White box)",
+      "เขียน Test Cases / Scenarios",
+      "Automation Testing (พื้นฐาน)"
+    ],
+    "soft_skills": [
+      "ความละเอียดรอบคอบ",
+      "ความอดทน",
+      "การสื่อสารที่ชัดเจน",
+      "การจัดลำดับความสำคัญ"
+    ],
+    "tools": {
+      "basic": [
+        "Jira / Trello",
+        "Excel / Google Sheets"
+      ],
+      "intermediate": [
+        "TestRail",
+        "Log Viewer / Debug Tools"
+      ],
+      "advanced": [
+        "Automated Test Framework",
+        "Performance & Stress Testing Tools"
+      ]
+    },
+    "tags": ["game"],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Game_testing",
+      "https://www.cgspectrum.com/blog/how-to-become-a-game-tester"
+    ]
+  },
+  {
+    "id": "gamepd",
+    "name_th": "Game Producer",
+    "overview": "ผู้จัดการโครงการในทีมพัฒนาเกม มีหน้าที่วางแผน โปรเจกต์ ประสานงาน ติดตามความคืบหน้า และควบคุมงบประมาณ เพื่อให้โปรเจกต์สำเร็จภายในเวลาและทรัพยากรที่กำหนด",
+    "responsibilities": [
+      "วางแผนและบริหารโปรเจกต์เกม",
+      "ประสานงานระหว่างทีมต่าง ๆ",
+      "ติดตามความคืบหน้าและแก้ปัญหา",
+      "จัดการ stakeholder / publisher"
+    ],
+    "hard_skills": [
+      "Project Management",
+      "Scheduling / Milestones",
+      "Budgeting / Resource Planning",
+      "Risk Management"
+    ],
+    "soft_skills": [
+      "การสื่อสาร",
+      "ภาวะผู้นำ",
+      "การตัดสินใจ",
+      "การเจรจาต่อรอง"
+    ],
+    "tools": {
+      "basic": [
+        "Trello / Asana",
+        "Google Sheets"
+      ],
+      "intermediate": [
+        "Jira / Confluence",
+        "Gantt Chart Tools"
+      ],
+      "advanced": [
+        "Agile / Scrum Tools",
+        "Reporting Dashboards / BI Tools"
+      ]
+    },
+    "tags": ["game"],
+    "sources": [
+      "https://www.cgspectrum.com/career-pathways/game-producer",
+      "https://www.indeed.com/career-advice/finding-a-job/game-producer"
+    ]
+  },
+  {
+    "id": "3dart",
+    "name_th": "3D Artist",
+    "overview": "ผู้สร้างโมเดล 3 มิติ ให้กับตัวละคร ฉาก และวัตถุในเกม ต้องมีทักษะด้านศิลปะและด้านเทคนิคเพื่อให้โมเดลสวยงาม ใช้งานได้ และประสิทธิภาพดีในเกม",
+    "responsibilities": [
+      "สร้างโมเดล 3D สำหรับตัวละครและฉาก",
+      "ทำ UV mapping / Texturing",
+      "ทำ baking maps (AO, Normal)",
+      "ปรับโมเดลให้เหมาะสมกับ engine",
+      "ทำงานร่วมกับทีม technical artist / animator"
+    ],
+    "hard_skills": [
+      "3D Modeling",
+      "Texturing",
+      "UV Unwrapping",
+      "Baking Maps",
+      "Rigging / Skinning"
+    ],
+    "soft_skills": [
+      "ความละเอียดรอบคอบ",
+      "ความคิดสร้างสรรค์",
+      "การสื่อสารกับทีม",
+      "การปรับตาม feedback"
+    ],
+    "tools": {
+      "basic": [
+        "Blender",
+        "Substance Painter",
+        "Photoshop"
+      ],
+      "intermediate": [
+        "Maya / 3ds Max",
+        "ZBrush",
+        "Substance Designer"
+      ],
+      "advanced": [
+        "Pipeline Integration Tools",
+        "Optimization / LOD Tools"
+      ]
+    },
+    "tags": ["game"],
+    "sources": [
+      "https://www.indeed.com/career-advice/finding-a-job/3d-artist",
+      "https://www.cgspectrum.com/career-pathways/3d-artist"
+    ]
+  },
+  {
+    "id": "animator",
+    "name_th": "Animator",
+    "overview": "ผู้สร้างการเคลื่อนไหวให้กับตัวละครและวัตถุในเกม เพื่อเพิ่มชีวิตชีวาและอารมณ์ให้กับการเล่น โดยต้องจัดการ rigging, skinning, transitions และ blending ภายใต้ engine ของเกม",
+    "responsibilities": [
+      "สร้าง animation cycles / transitions",
+      "ทำ rigging / skinning / weight painting",
+      "จัดการ animation blending / state machines",
+      "ปรับ animation ให้เหมาะสมกับ engine"
+    ],
+    "hard_skills": [
+      "Rigging / Skinning",
+      "Animation Principles (Timing, Ease-in/out)",
+      "Blend Trees / State Machines",
+      "Motion Capture Data Cleaning"
+    ],
+    "soft_skills": [
+      "ความคิดสร้างสรรค์",
+      "ความละเอียดรอบคอบ",
+      "การสื่อสารกับทีม",
+      "การปรับปรุงตาม feedback"
+    ],
+    "tools": {
+      "basic": [
+        "Blender / Maya",
+        "Unity Animator / Graph Editor"
+      ],
+      "intermediate": [
+        "Motion Capture Tools",
+        "Animation Blueprint (Unreal)"
+      ],
+      "advanced": [
+        "Procedural Animation Systems",
+        "Physics-based Animation"
+      ]
+    },
+    "tags": ["game"],
+    "sources": [
+      "https://www.cgspectrum.com/career-pathways/3d-animator",
+      "https://www.indeed.com/career-advice/finding-a-job/animator"
+    ]
+  },
+  {
+    "id": "netengi",
+    "name_th": "Network Engineer",
+    "overview": "ผู้ดูแลออกแบบ ติดตั้ง และบำรุงรักษาเครือข่ายคอมพิวเตอร์รับส่งข้อมูลให้มีความเสถียร ปลอดภัย และประสิทธิภาพสูง ครอบคลุม LAN, WAN, routing, switching, VPN และเทคโนโลยีเครือข่ายอื่น ๆ",
+    "responsibilities": [
+      "ออกแบบโครงสร้างเครือข่าย (LAN/WAN)",
+      "ตั้งค่า router, switch, firewall",
+      "แก้ไขปัญหา network latency / bandwidth",
+      "มอนิเตอร์และวิเคราะห์ traffic",
+      "อัปเกรด / บำรุงรักษาอุปกรณ์เครือข่าย"
+    ],
+    "hard_skills": [
+      "Routing & Switching (OSPF, BGP)",
+      "VPN / MPLS",
+      "Network Protocols (TCP/IP, DNS, DHCP)",
+      "Network Monitoring / SNMP",
+      "Wireshark / Packet Analysis"
+    ],
+    "soft_skills": [
+      "วิเคราะห์ปัญหา",
+      "การสื่อสารกับทีม IT",
+      "ความอดทนและละเอียด",
+      "การเรียนรู้เทคโนโลยีใหม่ ๆ"
+    ],
+    "tools": {
+      "basic": [
+        "Cisco / Juniper CLI",
+        "Wireshark",
+        "Basic network diagnostic commands (ping, traceroute)"
+      ],
+      "intermediate": [
+        "SNMP Tools (PRTG, Zabbix)",
+        "Network simulation (GNS3, Packet Tracer)",
+        "Firewall / VPN config tools"
+      ],
+      "advanced": [
+        "SDN / Network Automation (Ansible, Python)",
+        "Network Performance Tools (iperf, NetFlow)",
+        "Network Architect Tools"
+      ]
+    },
+    "tags": ["network"],
+    "sources": [
+      "https://www.cisco.com/c/en/us/solutions/enterprise-networks/what-is-network-engineer.html",
+      "https://www.comptia.org/content/it-career-path-roadmap"
+    ]
+  },
+  {
+    "id": "devops",
+    "name_th": "DevOps Engineer",
+    "overview": "ผู้ประสานระหว่างพัฒนา (Dev) และปฏิบัติการ (Ops) เพื่อให้การปล่อยซอฟต์แวร์เป็นไปอย่างต่อเนื่อง มีประสิทธิภาพ และเสถียร มีบทบาทในการตั้ง CI/CD, infrastructure as code, deployment automation และ monitoring",
+    "responsibilities": [
+      "สร้างและจัดการ CI / CD pipelines",
+      "ตั้งค่า infrastructure as code (IaC)",
+      "มอนิเตอร์ระบบ / logging",
+      "ทำ automation สำหรับ deployment / scaling"
+    ],
+    "hard_skills": [
+      "CI/CD (Jenkins, GitHub Actions, GitLab CI)",
+      "Infrastructure as Code (Terraform, CloudFormation)",
+      "Containerization / Orchestration (Docker, Kubernetes)",
+      "Monitoring & Logging (Prometheus, ELK)",
+      "Scripting (Python, Bash)"
+    ],
+    "soft_skills": [
+      "การแก้ปัญหา / debugging",
+      "การประสานงานระหว่างทีม Dev & Ops",
+      "ความรับผิดชอบสูง",
+      "ปรับตัวตามสถานการณ์"
+    ],
+    "tools": {
+      "basic": [
+        "Git / GitHub Actions",
+        "Docker",
+        "Basic shell scripting"
+      ],
+      "intermediate": [
+        "Kubernetes",
+        "Terraform / CloudFormation",
+        "Monitoring Tools (Prometheus, Grafana)"
+      ],
+      "advanced": [
+        "IaC ที่ซับซ้อน",
+        "Auto-scaling / Canary Deployments",
+        "Observability / Tracing Tools"
+      ]
+    },
+    "tags": ["network"],
+    "sources": [
+      "https://www.redhat.com/en/topics/devops/what-is-devops",
+      "https://www.atlassian.com/continuous-delivery/devops"
+    ]
+  },
+  {
+    "id": "sre",
+    "name_th": "Site Reliability Engineer",
+    "overview": "ผสมบทบาทระหว่างวิศวกรซอฟต์แวร์และ Ops เพื่อรักษาให้ระบบทำงานได้อย่างต่อเนื่องและเสถียร ดูแล uptime, scalability, performance และ automations เพื่อให้ระบบรองรับการเติบโต",
+    "responsibilities": [
+      "ออกแบบระบบที่ทนทานต่อความล้มเหลว (fault tolerance)",
+      "มอนิเตอร์ health และ alerting",
+      "เขียน automation สำหรับ recovery / failover",
+      "ทำ capacity planning / scaling"
+    ],
+    "hard_skills": [
+      "Software Engineering (Go, Python, Java)",
+      "Monitoring / Alerting (Prometheus, Grafana, Alertmanager)",
+      "Infrastructure as Code / Automation",
+      "Disaster Recovery / High Availability",
+      "Logging / Tracing Systems"
+    ],
+    "soft_skills": [
+      "ความคิดเชิงระบบ",
+      "การประสานงานกับทีม Dev & Ops",
+      "การแก้ปัญหาเฉพาะหน้า",
+      "ความรับผิดชอบสูง"
+    ],
+    "tools": {
+      "basic": [
+        "Monitoring Tools (Prometheus, Grafana)",
+        "Logging Tools (ELK / EFK)"
+      ],
+      "intermediate": [
+        "Distributed Tracing (Jaeger, Zipkin)",
+        "Chaos Engineering Tools",
+        "Auto Healing Scripts"
+      ],
+      "advanced": [
+        "Designing HA / DR systems",
+        "Observability Platforms at Scale",
+        "SRE Frameworks / Policies"
+      ]
+    },
+    "tags": ["network"],
+    "sources": [
+      "https://sre.google/introducing-sre",
+      "https://landing.google.com/sre/book.html"
+    ]
+  },
+  {
+    "id": "nre",
+    "name_th": "Network Security Engineer",
+    "overview": "ผู้ดูแลความปลอดภัยของเครือข่าย ป้องกันการโจมตี วิเคราะห์ภัยคุกคาม ติดตั้ง firewall / IDS / IPS และตรวจสอบ traffic เพื่อรักษาความมั่นคงของข้อมูลและระบบ",
+    "responsibilities": [
+      "ออกแบบและตั้งค่าระบบ firewall / IDS / IPS",
+      "วิเคราะห์ traffic / packet / logs",
+      "ทำ penetration testing / vulnerability assessment",
+      "ติดตามความปลอดภัยและอัปเดต patch"
+    ],
+    "hard_skills": [
+      "Network Protocols / TCP/IP",
+      "Firewall / IDS / IPS",
+      "Penetration Testing / Ethical Hacking",
+      "Cryptography / VPN",
+      "SIEM / Log Analysis"
+    ],
+    "soft_skills": [
+      "การวิเคราะห์เชิงลึก",
+      "ความละเอียดรอบคอบ",
+      "การสื่อสารรายงานความเสี่ยง",
+      "พร้อมเรียนรู้ช่องโหว่ใหม่"
+    ],
+    "tools": {
+      "basic": [
+        "Wireshark",
+        "Basic firewall config",
+        "nmap"
+      ],
+      "intermediate": [
+        "SIEM Tools (Splunk, ELK)",
+        "IDS / IPS Systems",
+        "Vulnerability Scanners (Nessus, OpenVAS)"
+      ],
+      "advanced": [
+        "Red Team Tools",
+        "Incident Response Automation",
+        "Advanced Threat Hunting Tools"
+      ]
+    },
+    "tags": ["network"],
+    "sources": [
+      "https://www.cisco.com/c/en/us/products/security/what-is-network-security.html",
+      "https://www.sans.org/cyber-security-courses"
+    ]
+  },
+  {
+    "id": "sysadmin",
+    "name_th": "System Administrator",
+    "overview": "ผู้ดูแลระบบเซิร์ฟเวอร์ OS, storage, services และ infrastructure ด้านระบบ ให้ทำงานได้ราบรื่น มี uptime สูง และปลอดภัย พร้อมจัดการแก้ไขปัญหาทางด้านระบบ",
+    "responsibilities": [
+      "ติดตั้ง / อัปเดต / บำรุงรักษา OS และ services",
+      "monitor system health / logs",
+      "backup / recovery",
+      "จัดการ user accounts / permissions",
+      "ตรวจสอบ security patch"
+    ],
+    "hard_skills": [
+      "Linux / Windows Server Administration",
+      "Shell Scripting / PowerShell",
+      "Backup / Disaster Recovery",
+      "Monitoring Tools (Nagios, Zabbix)",
+      "Identity / Access Management"
+    ],
+    "soft_skills": [
+      "ความรับผิดชอบ",
+      "การวิเคราะห์ปัญหา",
+      "การจัดการเวลา",
+      "การสื่อสารกับทีม"
+    ],
+    "tools": {
+      "basic": [
+        "Linux / Windows Server",
+        "SSH / Terminal",
+        "Task Scheduler / Cron"
+      ],
+      "intermediate": [
+        "Nagios / Zabbix / Prometheus",
+        "Ansible / Puppet / Chef",
+        "PowerShell / Bash Scripting"
+      ],
+      "advanced": [
+        "High Availability Clusters",
+        "Server Virtualization / Containers",
+        "Infrastructure Automation"
+      ]
+    },
+    "tags": ["network"],
+    "sources": [
+      "https://www.redhat.com/en/topics/automation/what-is-a-systems-administrator",
+      "https://www.linux.com/what-is-a-sysadmin"
+    ]
+  },
+  {
+    "id": "itsupsc",
+    "name_th": "IT Support Specialist",
+    "overview": "ผู้ช่วยเหลือผู้ใช้ (end users) ด้านปัญหา hardware / software / connectivity ให้สามารถใช้งานระบบได้อย่างราบรื่น พร้อมติดตามแก้ไขปัญหาและให้คำแนะนำแก่ผู้ใช้",
+    "responsibilities": [
+      "รับแจ้งปัญหาและวิเคราะห์เบื้องต้น",
+      "ซ่อม / ติดตั้ง hardware / software",
+      "ช่วยเหลือเชื่อมต่อเครือข่าย / printer / peripherals",
+      "ฝึกอบรมผู้ใช้และจัดทำเอกสาร"
+    ],
+    "hard_skills": [
+      "Troubleshooting hardware / software",
+      "Operating Systems (Windows, macOS, Linux)",
+      "Networking basics",
+      "Remote Support Tools"
+    ],
+    "soft_skills": [
+      "การสื่อสารกับผู้ใช้",
+      "ความอดทนและบริการ",
+      "การแก้ปัญหาเชิงผู้ใช้",
+      "ความละเอียด"
+    ],
+    "tools": {
+      "basic": [
+        "Remote Desktop Tools (TeamViewer, AnyDesk)",
+        "Helpdesk Ticketing Systems"
+      ],
+      "intermediate": [
+        "Endpoint Management Tools (SCCM, Intune)",
+        "Diagnostic Tools / Logs"
+      ],
+      "advanced": [
+        "Automation Scripts for support",
+        "System Monitoring for endpoints"
+      ]
+    },
+    "tags": ["network"],
+    "sources": [
+      "https://www.comptia.org/content/it-career-path-roadmap",
+      "https://www.coursera.org/articles/it-support-specialist"
+    ]
+  },
+  {
+    "id": "cyberanalyst",
+    "name_th": "Cybersecurity Analyst",
+    "overview": "ผู้วิเคราะห์ภัยคุกคามทางไซเบอร์ ตรวจสอบความปลอดภัย ระบบเครือข่าย และข้อมูล ตรวจจับปัญหา และตอบสนองต่อเหตุการณ์ (incident) เพื่อปกป้ององค์กรจากการโจมตี",
+    "responsibilities": [
+      "มอนิเตอร์ security logs / alerts",
+      "วิเคราะห์และตอบสนองเหตุการณ์ (incident response)",
+      "ทำ vulnerability assessment / penetration testing",
+      "สร้างและปรับปรุง policy / controls"
+    ],
+    "hard_skills": [
+      "SIEM / Log Analysis",
+      "Incident Response",
+      "Penetration Testing",
+      "Network Security Protocols",
+      "Forensics Tools"
+    ],
+    "soft_skills": [
+      "การวิเคราะห์เชิงลึก",
+      "การสื่อสารรายงานความเสี่ยง",
+      "ความละเอียด",
+      "การจัดลำดับความสำคัญ"
+    ],
+    "tools": {
+      "basic": [
+        "SIEM Tools (Splunk, ELK)",
+        "Packet Analyzers (Wireshark)"
+      ],
+      "intermediate": [
+        "Incident Response Tools (TheHive, Cortex)",
+        "Vulnerability Scanners (Nessus, OpenVAS)"
+      ],
+      "advanced": [
+        "Digital Forensics Platforms",
+        "Threat Hunting Tools",
+        "SOC Automation Tools"
+      ]
+    },
+    "tags": ["network"],
+    "sources": [
+      "https://www.cisco.com/c/en/us/products/security/what-is-cybersecurity-analyst.html",
+      "https://www.sans.org/cyber-security-courses"
+    ]
+  },
+  {
+    "id": "cloudarch",
+    "name_th": "Cloud Architect",
+    "overview": "ผู้วางโครงสร้างและออกแบบระบบคลาวด์ให้กับองค์กรรับมือ workload ขนาดใหญ่ มีความยืดหยุ่น และปลอดภัย ใช้บริการคลาวด์ (IaaS, PaaS, SaaS) อย่างมีประสิทธิภาพ",
+    "responsibilities": [
+      "ออกแบบสถาปัตยกรรมคลาวด์ (multi-cloud / hybrid)",
+      "กำหนด security / governance / cost optimization",
+      "วาง network / scaling / disaster recovery",
+      "ประสานงาน migration / integration กับ on-premises"
+    ],
+    "hard_skills": [
+      "Cloud Platforms (AWS, Azure, GCP)",
+      "Cloud Networking / VPC",
+      "IaC (Terraform, CloudFormation)",
+      "Security / IAM / Governance",
+      "Cost Optimization / Scaling"
+    ],
+    "soft_skills": [
+      "วิสัยทัศน์เชิงสถาปัตยกรรม",
+      "การสื่อสารกับทีม / ผู้บริหาร",
+      "การคิดเชิงระบบ",
+      "การวางแผนระยะยาว"
+    ],
+    "tools": {
+      "basic": [
+        "AWS / Azure / GCP console",
+        "Basic networking tools"
+      ],
+      "intermediate": [
+        "Terraform / CloudFormation",
+        "Cloud Monitoring Tools"
+      ],
+      "advanced": [
+        "Multi-cloud orchestration",
+        "Cloud-native architectures (microservices, serverless)"
+      ]
+    },
+    "tags": ["network"],
+    "sources": [
+      "https://aws.amazon.com/architecture/",
+      "https://cloud.google.com/architecture"
+    ]
+  },
+  {
+    "id": "uxui",
+    "name_th": "UX/UI Designer",
+    "overview": "ผู้ออกแบบประสบการณ์และอินเทอร์เฟซผู้ใช้ให้ใช้งานง่าย สวยงาม และตอบโจทย์ความต้องการ มีบทบาทในการวางโครงสร้างหน้าจอ (UX) และองค์ประกอบภาพ (UI) เพื่อให้ผู้ใช้ใช้งานได้ราบรื่น",
+    "responsibilities": [
+      "ออกแบบ wireframes / prototypes",
+      "ออกแบบ UI visual / interaction",
+      "ทดสอบผู้ใช้ / usability testing",
+      "ปรับ UI/UX ตาม feedback / data"
+    ],
+    "hard_skills": [
+      "Wireframing / Prototyping (Figma, Sketch)",
+      "User Research / Usability Testing",
+      "UI Design / Visual Design",
+      "Interaction Design / Microinteractions"
+    ],
+    "soft_skills": [
+      "ความเข้าใจผู้ใช้ (Empathy)",
+      "การสื่อสาร / การนำเสนอ",
+      "ความคิดสร้างสรรค์",
+      "ปรับตัวตาม feedback"
+    ],
+    "tools": {
+      "basic": [
+        "Figma / Sketch / Adobe XD",
+        "Wireframe Tools"
+      ],
+      "intermediate": [
+        "Prototyping Tools (InVision, Axure)",
+        "User Testing Tools"
+      ],
+      "advanced": [
+        "Design Systems / Component Libraries",
+        "UX Analytics Tools"
+      ]
+    },
+    "tags": ["digital"],
+    "sources": [
+      "https://www.usability.gov/what-and-why/user-experience.html",
+      "https://uxdesign.cc"
+    ]
+  },
+  {
+    "id": "dgmarketsc",
+    "name_th": "Digital Marketing Specialist",
+    "overview": "ผู้วางกลยุทธ์ ดำเนินการ และวิเคราะห์แคมเปญการตลาดออนไลน์ เพื่อเพิ่มการรับรู้แบรนด์ ยอดขาย และ engagement ผ่านช่องทางดิจิทัล เช่น SEO, SEM, Social, Email",
+    "responsibilities": [
+      "วางแผนกลยุทธ์การตลาดดิจิทัล",
+      "จัดการ SEO / SEM / Google Ads",
+      "บริหารแคมเปญ Social & Email Marketing",
+      "วิเคราะห์ข้อมูลและปรับแคมเปญตามผล"
+    ],
+    "hard_skills": [
+      "SEO / SEM",
+      "Google Ads / Meta Ads",
+      "Analytics / Data Interpretation",
+      "Email Marketing Tools",
+      "Content Strategy"
+    ],
+    "soft_skills": [
+      "คิดเชิงกลยุทธ์",
+      "การสื่อสาร / การเขียน",
+      "วิเคราะห์ข้อมูล",
+      "ความคิดสร้างสรรค์"
+    ],
+    "tools": {
+      "basic": [
+        "Google Analytics / Search Console",
+        "Social Media Platforms"
+      ],
+      "intermediate": [
+        "Google Ads / Meta Ads Manager",
+        "Email Marketing Platforms"
+      ],
+      "advanced": [
+        "Marketing Automation Tools",
+        "A/B Testing / Experimentation Platforms"
+      ]
+    },
+    "tags": ["digital"],
+    "sources": [
+      "https://blog.hubspot.com/marketing/digital-marketing",
+      "https://www.wordstream.com/digital-marketing"
+    ]
+  },
+  {
+    "id": "ecommanage",
+    "name_th": "E-commerce Manager",
+    "overview": "ผู้ดูแลและบริหารแพลตฟอร์มอีคอมเมิร์ซทั้งหมด วางกลยุทธ์บริหารสินค้า ประสบการณ์ผู้ใช้ และการตลาด รวมทั้งวิเคราะห์ยอดขายและผลลัพธ์เพื่อเติบโตธุรกิจออนไลน์",
+    "responsibilities": [
+      "วางกลยุทธ์อีคอมเมิร์ซ (UI/UX, funnel)",
+      "บริหารสินค้า / คลัง / logistics",
+      "วางแผนแคมเปญการตลาด / SEM / Social",
+      "วิเคราะห์ยอดขาย / KPI / Data"
+    ],
+    "hard_skills": [
+      "E-commerce Platforms (Shopify, Magento)",
+      "Analytics / KPI Tracking",
+      "SEO / SEM",
+      "UX for E-commerce"
+    ],
+    "soft_skills": [
+      "การบริหารโครงการ",
+      "การสื่อสารกับหลายฝ่าย",
+      "การวิเคราะห์ข้อมูล",
+      "ความคิดสร้างสรรค์"
+    ],
+    "tools": {
+      "basic": [
+        "Shopify / Magento / WooCommerce",
+        "Google Analytics"
+      ],
+      "intermediate": [
+        "Marketing Tools (Mailchimp, Klaviyo)",
+        "E-commerce Analytics Platforms"
+      ],
+      "advanced": [
+        "Personalization / Recommendation Engines",
+        "Advanced Data Pipelines / BI"
+      ]
+    },
+    "tags": ["digital"],
+    "sources": [
+      "https://www.shopify.com/enterprise/ecommerce-strategy",
+      "https://www.bigcommerce.com/blog/ecommerce-manager/"
+    ]
+  },
+  {
+    "id": "productmanage",
+    "name_th": "Product Manager",
+    "overview": "ผู้กำหนดทิศทางของผลิตภัณฑ์ ตั้งแต่แนวคิด พัฒนา จนปล่อยใช้งาน โดยประสานงานกับทีม UX, ดีไซน์, วิศวกร, การตลาด ให้ผลิตภัณฑ์ตรงกับความต้องการผู้ใช้และเป้าหมายธุรกิจ",
+    "responsibilities": [
+      "วาง roadmap / strategy ของผลิตภัณฑ์",
+      "กำหนดฟีเจอร์ / backlog / prioritization",
+      "ติดต่อประสานกับทีม cross-functional",
+      "วิเคราะห์ feedback / metrics / data"
+    ],
+    "hard_skills": [
+      "Product Roadmap / Strategy",
+      "Prioritization Techniques",
+      "Data-driven Decision Making",
+      "MVP / Lean / Agile Methods"
+    ],
+    "soft_skills": [
+      "ภาวะผู้นำ",
+      "การสื่อสาร / การโน้มน้าว",
+      "วิสัยทัศน์เชิงผลิตภัณฑ์",
+      "การจัดการความขัดแย้ง"
+    ],
+    "tools": {
+      "basic": [
+        "Jira / Trello",
+        "Roadmap Tools (Productboard, Aha!)"
+      ],
+      "intermediate": [
+        "Analytics Tools (Mixpanel, Amplitude)",
+        "A/B Testing Tools"
+      ],
+      "advanced": [
+        "Growth Frameworks",
+        "Experimentation Platforms"
+      ]
+    },
+    "tags": ["digital"],
+    "sources": [
+      "https://www.atlassian.com/agile/product-management",
+      "https://blog.intercom.com/product-management-101"
+    ]
+  },
+  {
+    "id": "dataanalyst",
+    "name_th": "Data Analyst",
+    "overview": "ผู้รวบรวม วิเคราะห์ และแปลผลข้อมูลเพื่อสนับสนุนการตัดสินใจทางธุรกิจ พัฒนารายงาน dashboard และวัดผล metric ต่าง ๆ เพื่อให้ทีมสามารถนำข้อมูลไปใช้จริง",
+    "responsibilities": [
+      "รวบรวม / ทำความสะอาดข้อมูล",
+      "วิเคราะห์เชิงลึก / สร้างโมเดลสถิติ",
+      "สร้างรายงาน / dashboard",
+      "แนะนำเชิงกลยุทธ์จากผลข้อมูล"
+    ],
+    "hard_skills": [
+      "SQL / NoSQL",
+      "Excel / VBA / Spreadsheet",
+      "Data Visualization (Tableau, Power BI)",
+      "Statistical Analysis / Python / R"
+    ],
+    "soft_skills": [
+      "การสื่อสารผลลัพธ์",
+      "การคิดวิเคราะห์",
+      "ความใส่ใจในรายละเอียด",
+      "เข้าใจธุรกิจ"
+    ],
+    "tools": {
+      "basic": [
+        "Excel / Google Sheets",
+        "SQL"
+      ],
+      "intermediate": [
+        "Python / R",
+        "Tableau / Power BI"
+      ],
+      "advanced": [
+        "Big Data Tools (Spark, Hadoop)",
+        "Machine Learning Basics"
+      ]
+    },
+    "tags": ["digital"],
+    "sources": [
+      "https://www.coursera.org/articles/data-analyst",
+      "https://www.ibm.com/topics/data-analytics"
+    ]
+  },
+  {
+    "id": "content",
+    "name_th": "Content Creator",
+    "overview": "ผู้ผลิตเนื้อหาในรูปแบบต่าง ๆ (บทความ, วิดีโอ, ภาพ) เพื่อนำเสนอต่อกลุ่มเป้าหมายบนแพลตฟอร์มดิจิทัล สร้างแบรนด์และ engagement ผ่านเนื้อหาที่มีคุณค่าและน่าสนใจ",
+    "responsibilities": [
+      "สร้างเนื้อหา (บทความ, วิดีโอ, social posts)",
+      "วางแผนคอนเทนต์ / editorial calendar",
+      "ปรับแต่ง SEO / content promotion",
+      "วัดผล engagement / feedback"
+    ],
+    "hard_skills": [
+      "Content Writing / Copywriting",
+      "Video Editing / Graphic Design",
+      "SEO / Keyword Research",
+      "Social Media Platforms"
+    ],
+    "soft_skills": [
+      "ความคิดสร้างสรรค์",
+      "การสื่อสาร",
+      "ความเข้าใจผู้ชม",
+      "ความยืดหยุ่น"
+    ],
+    "tools": {
+      "basic": [
+        "Word / Google Docs",
+        "Canva / Photoshop"
+      ],
+      "intermediate": [
+        "Premiere Pro / Final Cut",
+        "SEO Tools (Ahrefs, SEMrush)"
+      ],
+      "advanced": [
+        "Motion Graphics Tools",
+        "Content Automation Tools"
+      ]
+    },
+    "tags": ["digital"],
+    "sources": [
+      "https://blog.hubspot.com/marketing/content-creation",
+      "https://www.socialmediaexaminer.com/content-creator-guide"
+    ]
+  },
+  {
+    "id": "crmsc",
+    "name_th": "CRM Specialist",
+    "overview": "ผู้ดูแลระบบความสัมพันธ์ลูกค้า (CRM) วางแผนและดำเนินกลยุทธ์เพื่อรักษาและเพิ่มคุณค่าจากลูกค้า โดยใช้เครื่องมือ CRM วิเคราะห์พฤติกรรมและส่งข้อความที่ตรงกับลูกค้า",
+    "responsibilities": [
+      "ตั้งค่าระบบ CRM / segmentation",
+      "ออกแบบแคมเปญ retention / loyalty",
+      "วิเคราะห์พฤติกรรมลูกค้า / churn / lifetime value",
+      "ส่ง email / push / notification campaign"
+    ],
+    "hard_skills": [
+      "CRM Platforms (Salesforce, HubSpot)",
+      "Data Segmentation / SQL",
+      "Marketing Automation",
+      "Analytics / Reporting"
+    ],
+    "soft_skills": [
+      "ความเข้าใจลูกค้า",
+      "การสื่อสาร",
+      "การคิดเชิงกลยุทธ์",
+      "ความละเอียด"
+    ],
+    "tools": {
+      "basic": [
+        "CRM Systems (HubSpot, Salesforce)",
+        "Excel / Google Sheets"
+      ],
+      "intermediate": [
+        "Marketing Automation Tools",
+        "Email / Push Tools"
+      ],
+      "advanced": [
+        "Customer Journey Tools",
+        "Predictive Analytics / AI in CRM"
+      ]
+    },
+    "tags": ["digital"],
+    "sources": [
+      "https://www.salesforce.com/crm/what-is-crm/",
+      "https://blog.hubspot.com/service/crm-specialist"
+    ]
+  },
+  {
+    "id": "socialmanage",
+    "name_th": "Social Media Manager",
+    "overview": "ผู้รับผิดชอบวางกลยุทธ์ บริหารช่องทางโซเชียล ดึงดูดและสร้างการมีส่วนร่วมของผู้ติดตาม วิเคราะห์ผลตอบรับ และปรับเนื้อหาให้เข้ากับกลุ่มเป้าหมาย",
+    "responsibilities": [
+      "วางกลยุทธ์คอนเทนต์สำหรับ social media",
+      "โพสต์ / ตอบโต้ / community management",
+      "วิเคราะห์ engagement / metric",
+      "ปรับกลยุทธ์ตามผล"
+    ],
+    "hard_skills": [
+      "Social Media Platforms / Tools",
+      "Copywriting / Content Strategy",
+      "Analytics / Metrics Interpretation",
+      "Paid Social Advertising"
+    ],
+    "soft_skills": [
+      "การสื่อสาร",
+      "ความคิดสร้างสรรค์",
+      "ความเข้าใจผู้ติดตาม",
+      "ความอดทน"
+    ],
+    "tools": {
+      "basic": [
+        "Facebook / Instagram / Twitter / LinkedIn",
+        "Social Scheduling Tools"
+      ],
+      "intermediate": [
+        "Ads Manager Tools",
+        "Analytics Tools"
+      ],
+      "advanced": [
+        "Social Media Automation",
+        "Influencer / Campaign Management Tools"
+      ]
+    },
+    "tags": ["digital"],
+    "sources": [
+      "https://blog.hootsuite.com/social-media-manager/",
+      "https://sproutsocial.com/insights/social-media-manager-skills/"
+    ]
+  }
+]
